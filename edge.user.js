@@ -14,7 +14,18 @@
 // ==/UserScript==
 
 /*
-LICENSE
+Issues and Bugs
+===============
+
+https://github.com/iandennismiller/eye-cleansing-edge/issues
+
+Changelog
+=========
+
+0.1 - Initial offering
+
+License
+=======
 
 Copyright (C) 2012 Ian Dennis Miller
 
@@ -36,10 +47,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. 
 */
-
-// Changelog
-// =========
-// 0.1 - Initial offering
 
 // jquery injection technique from:
 // http://erikvold.com/blog/index.cfm/2010/6/14/using-jquery-with-a-user-script
